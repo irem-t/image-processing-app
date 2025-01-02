@@ -41,7 +41,6 @@ This project is a GUI application for image processing using PySide6 and OpenCV.
 - Matplotlib
 - NumPy
 
-## Screenshots
 
 ## Screenshots
 
