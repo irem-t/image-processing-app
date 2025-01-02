@@ -47,9 +47,11 @@ This project is a GUI application for image processing using PySide6 and OpenCV.
 ### Main Window
 ![Main Window](screenshots/main_window.png)
 
-### Edge Detection
+### Circle Detection
 ![Edge Detection](screenshots/detected_circles.png)
 
+### Precise Edge Detection
+![Edge Detection](screenshots/precise_edge.png)
 
 
 ## Contributing
